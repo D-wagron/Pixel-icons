@@ -12,7 +12,7 @@ Requirements:
     -> can be installed through apps such as **Fine Lock** or **Nice Lock**
 
 To use:
-  1. Install icons
+  1. Install icons by downloading **Apps** or **Apps.zip** (unzip after)
   2. In Samsung Theme Park, go to the icons tab
   3. Press Create New
   4. Go to the top right of the screen and press the add icon button (left of save)
