@@ -4,6 +4,7 @@ Apologies if some of your icons are missing (I hope to add more in the future)
 **They work only with Samsung**.
 
 (Sorry, literally everyone else)
+
 The QR scanner app has a working micro QR on it that says "QRscanner" (iirc)
 
 Requirements:
