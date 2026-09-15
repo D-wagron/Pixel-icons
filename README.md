@@ -2,6 +2,7 @@
 Pixel art icons I made to use on my phone.
 Apologies if some of your icons are missing (I hope to add more in the future)
 **They work only with Samsung**.
+The qr scanner app has a working microqr on it that says "QRscanner" (iirc)
 
 Requirements:
   - **Samsung Theme Park**
