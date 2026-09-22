@@ -1,7 +1,7 @@
 # Pixel-icons
 Pixel art icons I made to use on my phone.
 Apologies if some of your icons are missing (I hope to add more in the future)
-**They work only with Samsung**.
+**Through testing, they work on pretty much any Android.**.
 
 (Sorry, literally everyone else)
 
