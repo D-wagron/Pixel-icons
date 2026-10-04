@@ -3,9 +3,72 @@ Pixel art icons I made to use on my phone.
 Apologies if some of your icons are missing (I hope to add more in the future)
 **Through testing, they work on pretty much any Android.**.
 
-(Sorry, literally everyone else)
+This pack was originally made for Samsung, so Samsung gets most of the attention.
 
 The QR scanner app has a working micro QR on it that says "QRscanner" (iirc)
+
+
+**Icons**
+
+***Samsung apps***
+- Calculator
+- Calendar
+- Camera
+- Files
+- Gallery
+- Samsung Store
+- Notes
+- Settings
+- Voice Recorder
+- Samsung Theme Park
+
+***Google apps***
+- Chrome
+- Drive
+- Docs
+- Gemini
+- Google
+- Google TV
+- Gmail
+- Maps
+- Meet
+- Photos
+- Google Play Games
+- Google Play
+- Youtube
+- Sheets
+
+***Messaging apps***
+- Contacts
+- Discord
+- Messages
+- Phone
+- WhatsApp
+- Google Messages
+
+***Music***
+- JBL Headphones
+- Shazam
+- Spotify
+- Music Player
+
+***Miscellaneous***
+- Pixel Studio
+- Phyphox
+- QR scanner (The micro QR code says QRscanner if I remember correctly)
+- Reddit
+- XVPN
+
+***Games***
+- Among Us
+- Steam
+
+***The Odd Bunch***
+- Pinterest
+- Blip (File transfer app)
+- Adobe Lightroom
+
+The last one is just blank
 
 Requirements:
   - **Samsung Theme Park**
@@ -20,3 +83,4 @@ To use:
   6. Press Save
   7. Press Apply
   8. Done!
+
